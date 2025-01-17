@@ -4,6 +4,11 @@ import img1 from './images/1.png';
 import img2 from './images/2.png';
 import img3 from './images/3.png';
 import img4 from './images/4.png';
+import img5 from './images/5.png';
+import img6 from './images/9.png';
+import img7 from './images/8.png';
+import img8 from './images/6.png';
+import img9 from './images/7.png';
 
 function Portfolio() {
     const projects = [
@@ -34,6 +39,41 @@ function Portfolio() {
             made: "Html, CSS, Javascript, Php",
             desc: "PhilTrip is a travel platform offering local experiences.",
             image: { src: img2, alt: "PhilTrip Image" },
+        },
+        {
+            id: 5,
+            title: "LOCALPOINT",
+            made: "Html, CSS, Javascript, Php",
+            desc: "LocalPoint is an e-commerce platform.",
+            image: { src: img5, alt: "LocalPoint Image" },
+        },
+        {
+            id: 6,
+            title: "A. Gregorio - Resma Medical Clinic",
+            made: "Tailwind CSS, Motoko",
+            desc: "A medical record and appointment handling management system.",
+            image: { src: img6, alt: "Resma Image" },
+        },
+        {
+            id: 7,
+            title: "Mangan Tayo",
+            made: "Html, CSS, Javascript, Php",
+            desc: "Mangan Tayo is a Filipino food blog.",
+            image: { src: img7, alt: "ManganTayo Image" },
+        },
+        {
+            id: 8,
+            title: "College of Engineering",
+            made: "Wordpress",
+            desc: "The College of Engineering blog highlights all activities and achievements.",
+            image: { src: img8, alt: "CEn Image" },
+        },
+        {
+            id: 9,
+            title: "Office Supplies",
+            made: "Java",
+            desc: "The Office Supplies system manages office supplies inventory.",
+            image: { src: img9, alt: "OfficeSupplies Image" },
         },
     ];
 
