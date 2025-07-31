@@ -17,7 +17,7 @@ class Contact extends Component {
               href="mailto:linsangan.paola@clsu2.edu.ph"
               className="mt-6 inline-block text-white text-[20px] font-semibold border-b-2 border-[#FFC000] transition duration-300 ease-in-out hover:text-[#FFC000] hover:border-white"
             >
-              linsangan.paola@clsu2.edu.ph
+              linsangan.paolaysabel23@gmail.com
             </a>
           </div>
         </div>
