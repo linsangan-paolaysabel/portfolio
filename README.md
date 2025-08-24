@@ -1,70 +1,56 @@
-# Getting Started with Create React App
+# Hi, I’m Paola Ysabel Linsangan — Welcome to My Portfolio 👋
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aspiring **Web Developer** with a strong focus on **CMS Web Development**. I design and build clean, conversion‑ready websites and landing pages using modern site builders and no‑code/low‑code tools.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 About Me
 
-### `npm start`
+* **Degree:** BS in Information Technology, **major in Systems Development**
+* **Focus:** CMS websites, landing pages, on‑page SEO, and performance‑minded design
+* **Strengths:** Detail‑oriented, organized, quick learner, and client‑friendly communication
+* **Availability:** Flexible, including **graveyard hours (PH time)**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🧰 Tech & Tools
 
-### `npm test`
+* **CMS/Builders:** WordPress (Divi/Elementor), Wix, WeWeb, Webflow (basic)
+* **Front‑End:** HTML5, CSS3, basic JavaScript, responsive design
+* **Design:** Canva (graphics, banners, social posts, thumbnails)
+* **Video:** CapCut (short‑form edits, captions)
+* **Workflow:** Google Workspace (Docs/Sheets), SOPs, version control (Git/GitHub)
+* **SEO (Foundations):** Meta tags, alt text, semantic content, image optimization
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 💼 What I Do
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* Build and maintain **CMS websites** and landing pages
+* Create **on‑brand graphics** (social media posts, flyers, banners)
+* Set up **forms**, basic automations, and analytics
+* Apply **on‑page SEO** best practices and accessibility basics
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📬 Contact & Links
 
-### `npm run eject`
+* **Portfolio:** [https://portfolio-beta-flame-54.vercel.app/](https://portfolio-beta-flame-54.vercel.app/)
+* **Resume:** [https://drive.google.com/file/d/1B-pC7cVYwJeqSV54eaojfuQQ2-hDp5DN/view](https://drive.google.com/file/d/1B-pC7cVYwJeqSV54eaojfuQQ2-hDp5DN/view)
+* **Email:** `linsangan.paolaysabel23@gmail.com.com`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🤝 Work With Me
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+If you’re looking for a reliable CMS‑focused web designer/developer to help ship clean, user‑friendly sites, feel free to reach out. I’m open to part‑time, project‑based, or ongoing support.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 📜 License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This portfolio is for showcasing work. Please do not reuse designs or copy without permission.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> *“Great websites are simple, fast, and clear. That’s what I build.”*
